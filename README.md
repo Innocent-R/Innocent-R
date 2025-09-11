@@ -1,11 +1,12 @@
-## Hi there 👋
+## Hi there 👋, I am Innocent Rukundo
+From a childhood spent destroying radios to see if I can find people inside, to running a business in college with a keen focus on tech, my journey has always been driven by curiosity and a passion for technology. I came to the US with the dream of turning my tech skills into a full-fledged career, believing in the opportunities for growth and support here. Thanks to my strong teamwork and problem-solving abilities, I was enrolled into the Resilient Coders software engineering bootcamp . Now, I'm on a mission to become a Full Stack Developer, creating innovative solutions that make an impact in the community.
 
 <!--
 **Innocent-R/Innocent-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on JavaScrip..
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
