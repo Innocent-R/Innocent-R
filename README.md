@@ -1,10 +1,6 @@
 ## Hi there 👋, I am Innocent
 
-From a childhood spent destroying radios to find out what's inside, to running a business in college with a keen focus on tech, my journey has always been driven by curiosity and a passion for technology. 
-
-Having a dream of turning my tech skills into a full-fledged career, I was enrolled into the Resilient Coders software engineering bootcamp . 
-
-Now, I'm on a mission to become a Full Stack Developer, creating innovative solutions that make an impact in the community.
+I hold a degree in management with a concentration in logistics and operations, culminating in a capstone project aimed at enhancing public transport in my home country of Rwanda. I realized that many challenges could be addressed more effectively through technology, which inspired my transition into software engineering. I now focus on building innovative solutions that create meaningful impact for my community. In 2024, I moved to the U.S. to pursue this dream, embracing the country’s opportunities for growth and learning. If you’re seeking a software engineer passionate about creating technology that improves everyday life, I’m excited to contribute.
 
 <!--
 **Innocent-R/Innocent-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
