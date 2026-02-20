@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Innocent
 
-I hold a bachelor’s degree in Information Technology from SNHU. After graduation, I found that many challenges could be addressed more effectively through technology, which led me to focus on software engineering. I now have a plan of building innovative solutions that create meaningful impact for my community. In 2024, I moved to the U.S. to pursue this dream, embracing the country’s opportunities for growth and learning. If you are seeking a software engineer passionate about creating technology that improves everyday life, I am excited to contribute.
+I hold a bachelor’s degree in Information Technology from SNHU. After graduation, I found that many challenges could be addressed more effectively through technology, which led me to focus on software engineering. I now have a plan to build innovative solutions that create meaningful impact for my community. If you are seeking a software engineer passionate about creating technology that improves everyday life, I am excited to contribute.
 <!--
 **Innocent-R/Innocent-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
