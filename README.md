@@ -1,7 +1,6 @@
 ## Hi there 👋, I am Innocent
 
-I hold a degree in management with a concentration in logistics and operations, culminating in a capstone project aimed at enhancing public transport in my home country of Rwanda. After graduation, I realized that many challenges could be addressed more effectively through technology, which inspired my transition into software engineering. I now focus on building innovative solutions that create meaningful impact for my community. In 2024, I moved to the U.S. to pursue this dream, embracing the country’s opportunities for growth and learning. If you’re seeking a software engineer passionate about creating technology that improves everyday life, I’m excited to contribute.
-
+I hold a bachelor’s degree in Information Technology from SNHU. After graduation, I found that many challenges could be addressed more effectively through technology, which led me to focus on software engineering. I now have a plan of building innovative solutions that create meaningful impact for my community. In 2024, I moved to the U.S. to pursue this dream, embracing the country’s opportunities for growth and learning. If you are seeking a software engineer passionate about creating technology that improves everyday life, I am excited to contribute.
 <!--
 **Innocent-R/Innocent-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
